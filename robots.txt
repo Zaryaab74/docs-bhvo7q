@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8ilh88.pagoimpuestovehiculos.top/sitemap.xml
